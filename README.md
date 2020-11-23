@@ -1,4 +1,8 @@
 # tiempineitor
-Application that checks weather in current location
 
-Needs GPS and permissions to use it
+Esto son puntas de zanahorias escabechadas
+
+A ver si nos vamos al descanso ya que son las 19:30
+
+
+
