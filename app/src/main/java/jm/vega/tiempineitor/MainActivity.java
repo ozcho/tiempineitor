@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
     @SuppressLint("MissingPermission")
     private void initializeLocation() {
-        lastLocation = new Location("dummyProvider");
+        lastLocation = new Location("elProveedorDelJoso");
         lastLocation.setLatitude(0);
         lastLocation.setAltitude(0);
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
