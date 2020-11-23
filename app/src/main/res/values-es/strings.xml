@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tiempineitor</string>
+    <string name="can_not_continue">Sin permisos no se puede</string>
+    <string name="error_on_call">Hubo un error en la llamada</string>
+    <string name="placeIntro">El tiempo en %1$s es:</string>
+    <string name="tempIntro">Temperatura: %1$s C°</string>
+
+</resources>

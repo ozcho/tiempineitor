@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tiempineitor</string>
+    <string name="can_not_continue">Can not continue without permissions!!!1one</string>
+    <string name="error_on_call">There was an error making the call</string>
+    <string name="placeIntro">Weather in %1$s is:</string>
+    <string name="tempIntro">Temperature: %1$s C°</string>
+
+</resources>
